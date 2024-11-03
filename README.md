@@ -3,7 +3,7 @@
 ## Download
 - download (not clone) this starter
 ```bash
-wget <link>
+wget https://github.com/sepehr541/llvm-starter/archive/refs/heads/main.zip
 ```
 
 ## Configure
